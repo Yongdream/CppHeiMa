@@ -1,0 +1,3 @@
+﻿  089.cpp
+E:\Galaxy\CppHeima\HeiMav2\089Quote\089.cpp(16,1): warning C4172: 返回局部变量或临时变量的地址: a
+  089Quote.vcxproj -> E:\Galaxy\CppHeima\HeiMav2\x64\Debug\089Quote.exe
