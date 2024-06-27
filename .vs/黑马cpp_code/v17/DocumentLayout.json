@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Galaxy\\CppHeima\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5796DE8E-AEC0-426C-BF13-5F1C29ACBD34}|\u9ED1\u9A6Ccpp_code\\\u9ED1\u9A6Ccpp_code.vcxproj|E:\\Galaxy\\CppHeima\\\u9ED1\u9A6Ccpp_code\\008 \u5C0F\u732A\u79F0\u91CD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5796DE8E-AEC0-426C-BF13-5F1C29ACBD34}|\u9ED1\u9A6Ccpp_code\\\u9ED1\u9A6Ccpp_code.vcxproj|solutionrelative:\u9ED1\u9A6Ccpp_code\\008 \u5C0F\u732A\u79F0\u91CD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5796DE8E-AEC0-426C-BF13-5F1C29ACBD34}|\u9ED1\u9A6Ccpp_code\\\u9ED1\u9A6Ccpp_code.vcxproj|E:\\Galaxy\\CppHeima\\\u9ED1\u9A6Ccpp_code\\001 HelloWordl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5796DE8E-AEC0-426C-BF13-5F1C29ACBD34}|\u9ED1\u9A6Ccpp_code\\\u9ED1\u9A6Ccpp_code.vcxproj|solutionrelative:\u9ED1\u9A6Ccpp_code\\001 HelloWordl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "008 \u5C0F\u732A\u79F0\u91CD.cpp",
+              "DocumentMoniker": "E:\\Galaxy\\CppHeima\\\u9ED1\u9A6Ccpp_code\\008 \u5C0F\u732A\u79F0\u91CD.cpp",
+              "RelativeDocumentMoniker": "\u9ED1\u9A6Ccpp_code\\008 \u5C0F\u732A\u79F0\u91CD.cpp",
+              "ToolTip": "E:\\Galaxy\\CppHeima\\\u9ED1\u9A6Ccpp_code\\008 \u5C0F\u732A\u79F0\u91CD.cpp",
+              "RelativeToolTip": "\u9ED1\u9A6Ccpp_code\\008 \u5C0F\u732A\u79F0\u91CD.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-27T13:57:56.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "001 HelloWordl.cpp",
+              "DocumentMoniker": "E:\\Galaxy\\CppHeima\\\u9ED1\u9A6Ccpp_code\\001 HelloWordl.cpp",
+              "RelativeDocumentMoniker": "\u9ED1\u9A6Ccpp_code\\001 HelloWordl.cpp",
+              "ToolTip": "E:\\Galaxy\\CppHeima\\\u9ED1\u9A6Ccpp_code\\001 HelloWordl.cpp",
+              "RelativeToolTip": "\u9ED1\u9A6Ccpp_code\\001 HelloWordl.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-27T13:57:52.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
